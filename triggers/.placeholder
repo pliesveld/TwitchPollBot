@@ -1,0 +1,3 @@
+This is a placeholder file so that this directory will be constructed.
+To add a static trigger, create a text file having the name of the trigger and append the .txt extension.
+The contents of the file will sent to the channel when the trigger is invoked.
